@@ -34,8 +34,35 @@ When choosing which services to use to solve certain problems, these three chara
 
 ## Infosec Scene: Darknet Diaries Podcast Episode Summary
 
+# Episode 146: ANOM - Overview
 
+## Key Points
 
+### What is ANOM?
+- ANOM was an encrypted messaging app used by criminals, who believed it was secure.
+- In reality, the app was monitored by law enforcement.
+
+### Operation Trojan Shield
+- This was a global law enforcement operation that uncovered ANOM.
+- Agencies involved included the FBI, Europol, and Australian Federal Police.
+- The operation used ANOM to track criminal activities around the world.
+
+### How ANOM Was Used
+- Criminals used the app for secret communication.
+- They were unaware that their messages were being intercepted by police.
+
+### Results of the Operation
+- Many arrests were made, and illegal items such as drugs and firearms were seized.
+- The operation caused significant disruption to major crime networks.
+
+### Challenges
+- The operation highlighted the difficulties of monitoring encrypted communications.
+- It raised issues about balancing privacy with security.
+
+### Impact
+- The case led to discussions about privacy, encryption, and law enforcement surveillance practices.
+
+## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
 **Security and Privacy: Two Sides of the Same Coin**
 
 Alright, let me introduce a few more terms. Security researchers Marit Hansen, Meiko Jensen, and Marin Rost published a paper that extends the CIA triad, focusing on better privacy protection in threat modeling. They proposed the concepts of "Unlinkability," "Transparency," and "Intervenability."
