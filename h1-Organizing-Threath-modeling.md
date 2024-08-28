@@ -146,6 +146,7 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 - **APIs**
 
 ### System Diagram:
+
 +------------------+      +------------------+      +-------------------+      +-------------------+
 | Customer Portals | ---> |   Web Servers    | ---> |    API Gateways   | ---> | Integration APIs  |
 +------------------+      +------------------+      +-------------------+      +-------------------+
@@ -171,6 +172,7 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
                       +------------------+
                       |  Support Channels|
                       +------------------+
+
 
 
 ## 2. What Can Go Wrong?
