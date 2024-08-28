@@ -33,7 +33,8 @@ When choosing which services to use to solve certain problems, these three chara
 **Security and Privacy: Two Sides of the Same Coin**
 
 Alright, let me introduce a few more terms. Security researchers Marit Hansen, Meiko Jensen, and Marin Rost published a paper that extends the CIA triad, focusing on better privacy protection in threat modeling. They proposed the concepts of "Unlinkability," "Transparency," and "Intervenability."
-[https://github.com/Stephenyeah/Information-security/blob/study/2024-08-28%2023_27_08-2024Tuta.png]
+
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/study/2024-08-28%2023_27_08-2024Tuta.png)
 
 
 
