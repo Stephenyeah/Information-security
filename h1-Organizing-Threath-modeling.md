@@ -147,13 +147,37 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 
 ### System Diagram:
 
-+------------------+ +------------------+ +-------------------+ +-------------------+ | Customer Portals | ---> | Web Servers | ---> | API Gateways | ---> | Integration APIs | +------------------+ +------------------+ +-------------------+ +-------------------+ | | v v +------------------+ +-------------------+ | Application | ---> | Internal Systems | | Servers | +-------------------+ +------------------+ | v +------------------+ | Databases | +------------------+ | v +------------------+ | Backup Systems | +------------------+
+# System Architecture Diagram
+
+The following diagram illustrates the flow of data and connections between components of TechnoServe Innovations:
+
+```plaintext
++------------------+      +------------------+      +-------------------+      +-------------------+
+| Customer Portals | ---> |   Web Servers    | ---> |    API Gateways   | ---> | Integration APIs  |
++------------------+      +------------------+      +-------------------+      +-------------------+
+                               |                          |
+                               v                          v
+                      +------------------+      +-------------------+
+                      | Application      | ---> | Internal Systems  |
+                      | Servers          |      +-------------------+
+                      +------------------+
+                               |
+                               v
+                      +------------------+
+                      |    Databases     |
+                      +------------------+
+                               |
+                               v
+                      +------------------+
+                      |  Backup Systems  |
+                      +------------------+
 
                                ^
                                |
                       +------------------+
                       |  Support Channels|
                       +------------------+
+
 
 
 
