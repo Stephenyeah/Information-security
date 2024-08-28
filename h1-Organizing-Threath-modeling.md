@@ -2,11 +2,11 @@
 
 There are various methods, processes, and techniques for threat modeling, but they all share several common principles.
 
-Threat modeling is a structured process aimed at identifying security requirements, determining security threats and vulnerabilities, and quantifying the severity of these threats and vulnerabilities, so that preventive measures can be prioritized.
+**Threat modeling is a structured process aimed at identifying security requirements, determining security threats and vulnerabilities, and quantifying the severity of these threats and vulnerabilities, so that preventive measures can be prioritized.**
 
 The goal of threat modeling is to create a list that outlines the areas or services where you (or your system) are most vulnerable to attack, the risks associated with those areas being attacked, the actions you can take to mitigate those risks, and the priority order for reducing those risks. Regardless of the specific approach used, the outcome of this process is your threat model.
 
-Industry Standards
+##Industry Standards
 
 In the field of cybersecurity, there is a lot of discussion about the CIA— not the one with suits and helicopters, but the CIA Triad. The CIA Triad is an acronym for the following concepts: Confidentiality, Integrity, and Availability.
 
@@ -20,7 +20,7 @@ For example, I could store an encrypted copy of my favorite music on an external
 
 When choosing which services to use to solve certain problems, these three characteristics should serve as guiding principles.
 
-Key Acronyms in the Field of Information Security
+##Key Acronyms in the Field of Information Security
 
 STRIDE: The STRIDE threat model, introduced by Microsoft, is an acronym used to identify security threats. It stands for Spoofing, Tampering, Repudiation, Information Disclosure (i.e., data leakage), Denial of Service, and Elevation of Privilege. These threats are faced not only by enterprise security teams but also by everyday internet users.
 
