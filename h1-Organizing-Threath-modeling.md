@@ -110,21 +110,159 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 - Conduct regular backups and disaster recovery drills
 
 
-## Did we do a good enough job?
-Once you have identified the main threats to your privacy, you can start choosing solutions to protect yourself and your data.
+# Threat Model for TechnoServe Innovations
 
-**Step 1: Choose a Secure Email Provider**  
-The first step to protecting your online privacy should be selecting a secure email provider. Almost all online accounts will require an email address, so it is essential to start with strong defenses.
+## Company Overview
 
-**Step 2: Secure Your Logins**  
-Protecting these accounts requires strong passwords and two-factor authentication (2FA).
+**Company Name:** TechnoServe Innovations  
+**Industry:** Technology and Software Development  
+**Products:** Cloud-based project management tools, customer relationship management (CRM) systems, and data analytics solutions.  
+**Key Business Requirement:** Deliver secure and reliable software solutions to clients to maintain customer trust and ensure continuous revenue.
 
-By following these steps, you can begin to address your personal threat model. Privacy protection is a marathon, not a sprint, but you can pat yourself on the back because if you have created a secure email account and used a password manager to create strong and unique passwords for each account, you will significantly reduce the risk in the event of a data breach. Quickly changing passwords for specific services and staying alert to phishing emails will also make a big difference.
+---
 
-**Step 3: Don’t Stop Learning**  
-Engaging with the broader privacy community through articles, forums, podcasts, and books is a great way to continue improving your privacy knowledge. By working together and sharing experiences, we can all enhance our online privacy and security.
+## 1. What Are We Working On?
 
-Stay safe, and happy encrypting!
+### Assets:
+- **Customer Data:** Personal information, project details, and financial records.
+- **Proprietary Software:** Source code and intellectual property.
+- **Company Infrastructure:** Servers, databases, and network devices.
+- **Employee Data:** Personal and employment information of staff.
+- **Client Interaction Points:** Customer portals, support channels, and integration APIs.
+
+### Prioritization:
+- **Crown Jewel:** Customer Data
+- **High Priority:** Proprietary Software
+- **Medium Priority:** Company Infrastructure
+- **Lower Priority:** Employee Data
+
+### Security Supports Business:
+- **Customer Trust:** Essential for business continuity and revenue.
+- **Operational Integrity:** Ensures reliable service delivery.
+
+### Customer Touchpoints:
+- **Customer Portals**
+- **Support Channels**
+- **APIs**
+
+### System Diagram:
++------------------+      +------------------+      +-------------------+      +-------------------+
+| Customer Portals | ---> |   Web Servers    | ---> |    API Gateways   | ---> | Integration APIs  |
++------------------+      +------------------+      +-------------------+      +-------------------+
+                               |                          |
+                               v                          v
+                      +------------------+      +-------------------+
+                      | Application      | ---> | Internal Systems  |
+                      | Servers          |      +-------------------+
+                      +------------------+
+                               |
+                               v
+                      +------------------+
+                      |    Databases     |
+                      +------------------+
+                               |
+                               v
+                      +------------------+
+                      |  Backup Systems  |
+                      +------------------+
+
+                               ^
+                               |
+                      +------------------+
+                      |  Support Channels|
+                      +------------------+
+
+
+## 2. What Can Go Wrong?
+
+### Threat Models Applied
+
+#### STRIDE Model
+- **Spoofing:** Unauthorized access to customer accounts.
+- **Tampering:** Alteration of customer data or proprietary software.
+- **Repudiation:** Denial of actions by users.
+- **Information Disclosure:** Leakage of sensitive data.
+- **Denial of Service (DoS):** Disruption of service.
+- **Elevation of Privilege:** Unauthorized escalation of permissions.
+
+#### Attack Trees
+- **Goal:** Compromise Customer Data
+  - **Branch 1:** Exploit Vulnerability in Web Server
+    - Exploit outdated software
+    - Use SQL Injection
+  - **Branch 2:** Phishing Attack on Employees
+    - Gain credentials
+    - Access internal systems
+
+#### CIA Triad
+- **Confidentiality:** Data breaches exposing sensitive information.
+- **Integrity:** Unauthorized changes to data or software.
+- **Availability:** Service disruptions affecting client access.
+
+### Identified Risks
+- **High Risk:**
+  - Data Breach via Web Server Exploit
+  - Phishing Attack on Employees
+- **Medium Risk:**
+  - DoS Attack on Customer Portals
+- **Lower Risk:**
+  - Minor Software Bugs
+
+### Targeted Threat Actors
+- **Cybercriminal Groups**
+- **Geopolitical Threats**
+
+### COI (Capability, Opportunity, Intent)
+- **Capability:** High technical skills of threat actors.
+- **Opportunity:** Exploitable vulnerabilities.
+- **Intent:** Financial gain or competitive advantage.
+
+### Business Continuity
+- **Risk of Service Disruption:** Must maintain customer trust and ensure high availability.
+
+---
+
+## 3. What Are We Going to Do About It?
+
+### Mitigation Strategies
+
+#### Reduce Attack Surface
+- Regularly update and patch software.
+- Implement strong access controls.
+
+#### Limit Entry Points
+- Use Web Application Firewalls (WAFs) and Intrusion Detection Systems (IDS).
+- Secure APIs with proper authentication.
+
+#### Mitigate
+- Implement encryption for data at rest and in transit.
+- Conduct regular security training.
+
+#### Eliminate
+- Remove unnecessary services and software.
+- Disable outdated protocols.
+
+#### Transfer
+- Use cybersecurity insurance.
+- Outsource non-core security functions.
+
+#### Accept
+- Acknowledge residual risks and manage them with controls.
+
+---
+
+## 4. Did We Do a Good Enough Job?
+
+### Continuous Improvement
+- **Security Audits:** Regular assessments of vulnerabilities.
+- **Penetration Testing:** Simulate attacks to find weaknesses.
+- **Assessments:** Ongoing risk evaluations.
+- **Continuous Threat Modeling:** Update models based on new threats.
+
+**Process:**
+- Security is a continuous process, not a one-time task. Regular updates and refinements are essential.
+
+
 
 
 
