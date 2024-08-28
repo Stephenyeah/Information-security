@@ -1,3 +1,4 @@
+#Braiterman et al 2020: Threat modeling manifesto
 **What is a Threat Model, and What is the Process of Threat Modeling?**
 
 There are various methods, processes, and techniques for threat modeling, but they all share several common principles.
@@ -30,6 +31,10 @@ When choosing which services to use to solve certain problems, these three chara
 
 **MITRE ATT&CK: ATT&CK** is an open knowledge base for security professionals and individuals. While many threats may not apply to the technologies you use in daily life, MITRE provides an excellent resource for accumulating security knowledge. For those of us looking to enhance online privacy, the "Reconnaissance and Collection" threat groups are particularly important.
 
+#Infosec Scene: Darknet Diaries Podcast Episode Summary
+
+
+
 **Security and Privacy: Two Sides of the Same Coin**
 
 Alright, let me introduce a few more terms. Security researchers Marit Hansen, Meiko Jensen, and Marin Rost published a paper that extends the CIA triad, focusing on better privacy protection in threat modeling. They proposed the concepts of "Unlinkability," "Transparency," and "Intervenability."
@@ -45,23 +50,8 @@ Alright, let me introduce a few more terms. Security researchers Marit Hansen, M
 
 The text introduces the concept of the "Intrusion Kill Chain," a model adapted from military strategies for cybersecurity. This model outlines the steps an adversary takes to execute a cyberattack and provides a framework for defenders to counter these attacks effectively.
 
-**Intrusion Kill Chain Phases:**
 
-**Reconnaissance:** The attacker researches and identifies potential targets, often by gathering information from public sources like websites and mailing lists.
 
-**Weaponization:** The attacker creates a malicious payload, often embedding a remote access trojan (RAT) in common file types like PDFs or Microsoft Office documents.
-
-**Delivery:** The attacker transmits the weaponized payload to the target, commonly through email attachments, malicious websites, or USB drives.
-
-**Exploitation:** Upon delivery, the payload exploits a vulnerability in the victim's system, such as software bugs or user errors, to activate the malicious code.
-
-**Installation:** The attacker installs a backdoor or RAT on the compromised system to maintain persistent access.
-
-**Command and Control (C2):** The compromised system connects to a server controlled by the attacker, allowing them to issue commands and control the system remotely.
-
-**Actions on Objectives:** The attacker now executes their primary goal, such as data theft, system disruption, or further lateral movement within the network.
-
-**Steps to Enhance Security**
 
 Once you have identified the main threats to your privacy, you can start choosing solutions to protect yourself and your data.
 
