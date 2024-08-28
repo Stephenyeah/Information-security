@@ -81,6 +81,33 @@ Alright, let me introduce a few more terms. Security researchers Marit Hansen, M
 
 The text introduces the concept of the "Intrusion Kill Chain," a model adapted from military strategies for cybersecurity. This model outlines the steps an adversary takes to execute a cyberattack and provides a framework for defenders to counter these attacks effectively.
 
+# Security Hygiene 
+
+## For Everyone
+
+- Use strong, unique passwords
+- Enable two-factor authentication (2FA)
+- Keep software up to date
+- Be cautious with phishing
+- Back up your data regularly
+- Use a VPN on public Wi-Fi
+- Practice safe browsing
+- Limit data sharing
+- Use antivirus and anti-malware software
+- Secure your devices with passwords or biometric features
+- Monitor account activity
+
+## For Companies
+
+- Conduct regular security audits
+- Implement employee security training
+- Enforce strong access controls
+- Apply patches and updates promptly
+- Monitor network traffic and logs
+- Secure communication channels
+- Develop an incident response plan
+- Implement data encryption
+- Conduct regular backups and disaster recovery drills
 
 
 ## Did we do a good enough job?
