@@ -147,14 +147,14 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 
 ### System Diagram:
 
-+------------------+      +------------------+      +-------------------+      +-------------------+
-| Customer Portals | ---> |   Web Servers    | ---> |    API Gateways   | ---> | Integration APIs  |
-+------------------+      +------------------+      +-------------------+      +-------------------+
++------------------+       +------------------+       +-------------------+       +-------------------+
+| Customer Portals | ----> |   Web Servers    | ----> |    API Gateways   | ----> | Integration APIs  |
++------------------+       +------------------+       +-------------------+       +-------------------+
                                |                          |
                                v                          v
-                      +------------------+      +-------------------+
-                      | Application      | ---> | Internal Systems  |
-                      | Servers          |      +-------------------+
+                      +------------------+       +-------------------+
+                      | Application      | ----> | Internal Systems  |
+                      | Servers          |       +-------------------+
                       +------------------+
                                |
                                v
