@@ -22,6 +22,7 @@ For example, I could store an encrypted copy of my favorite music on an external
 
 When choosing which services to use to solve certain problems, these three characteristics should serve as guiding principles.
 
+## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
 **Key Acronyms in the Field of Information Security**
 
 **STRIDE:** The STRIDE threat model, introduced by Microsoft, is an acronym used to identify security threats. It stands for Spoofing, Tampering, Repudiation, Information Disclosure (i.e., data leakage), Denial of Service, and Elevation of Privilege. These threats are faced not only by enterprise security teams but also by everyday internet users.
@@ -62,7 +63,7 @@ When choosing which services to use to solve certain problems, these three chara
 ### Impact
 - The case led to discussions about privacy, encryption, and law enforcement surveillance practices.
 
-## Shostack 2022: Welcome to the Worlds Shortest Threat Modeling Course
+
 **Security and Privacy: Two Sides of the Same Coin**
 
 Alright, let me introduce a few more terms. Security researchers Marit Hansen, Meiko Jensen, and Marin Rost published a paper that extends the CIA triad, focusing on better privacy protection in threat modeling. They proposed the concepts of "Unlinkability," "Transparency," and "Intervenability."
