@@ -1,29 +1,34 @@
-Threath modeling
+**What is a Threat Model, and What is the Process of Threat Modeling?**
 
-In summary, in threat modeling and organizing defenses, the kill chain provides a clear and systematic way to anticipate, detect, and respond to cyber threats by breaking down the attack process into manageable stages.
+There are various methods, processes, and techniques for threat modeling, but they all share several common principles.
 
-Intrusion Kill Chain Phases:
-Reconnaissance: The attacker researches and identifies potential targets, often by gathering information from public sources like websites and mailing lists.
+Threat modeling is a structured process aimed at identifying security requirements, determining security threats and vulnerabilities, and quantifying the severity of these threats and vulnerabilities, so that preventive measures can be prioritized.
 
-Weaponization: The attacker creates a malicious payload, often embedding a remote access trojan (RAT) in common file types like PDFs or Microsoft Office documents.
+The goal of threat modeling is to create a list that outlines the areas or services where you (or your system) are most vulnerable to attack, the risks associated with those areas being attacked, the actions you can take to mitigate those risks, and the priority order for reducing those risks. Regardless of the specific approach used, the outcome of this process is your threat model.
 
-Delivery: The attacker transmits the weaponized payload to the target, commonly through email attachments, malicious websites, or USB drives.
+Industry Standards
 
-Exploitation: Upon delivery, the payload exploits a vulnerability in the victim's system, such as software bugs or user errors, to activate the malicious code.
+In the field of cybersecurity, there is a lot of discussion about the CIA— not the one with suits and helicopters, but the CIA Triad. The CIA Triad is an acronym for the following concepts: Confidentiality, Integrity, and Availability.
 
-Installation: The attacker installs a backdoor or RAT on the compromised system to maintain persistent access.
+For us, confidentiality means that our data is only accessible to authorized individuals. For privacy enthusiasts, this could mean just you, your friends, or your family.
 
-Command and Control (C2): The compromised system connects to a server controlled by the attacker, allowing them to issue commands and control the system remotely.
+Integrity refers to the completeness and accuracy of the data. It wouldn't be ideal if the data is secure, but when you need it, it's just a corrupted file.
 
-Actions on Objectives: The attacker now executes their primary goal, such as data theft, system disruption, or further lateral movement within the network.
+Availability means that the secure system we're building or using must provide access to the data when we need it.
 
-Defensive Strategies:
-The Intrusion Kill Chain model is valuable for defenders because it maps out the adversary's process, allowing for targeted defenses at each stage. Defenders can implement various strategies such as detection, denial, disruption, degradation, deception, and destruction. For example:
+For example, I could store an encrypted copy of my favorite music on an external hard drive, lock it in a safe, and bury it in the backyard; it would certainly be confidential, and hopefully, the data wouldn't be lost, but it would definitely lack availability. When developing your own threat model, it is crucial to balance these three concepts. Your final model may lean more towards some of these concepts, and that's okay. What’s important is that you strive to build a personalized security model rather than adopting a “one-size-fits-all” approach.
 
-Detection: Using systems like Host Intrusion Detection Systems (HIDS) or Network Intrusion Detection Systems (NIDS) to identify malicious activity.
-Denial: Implementing firewalls or patching vulnerabilities to block attacks.
-Disruption: Utilizing antivirus software or Data Execution Prevention (DEP) to interrupt the attack process.
-Measuring Effectiveness:
-The effectiveness of these defensive actions can be measured over time. For instance, defenders can track how their responses to different phases of the kill chain have evolved, using metrics to identify gaps and prioritize improvements. A resilient defense strategy forces attackers to invest more resources, making successful intrusions more difficult and costly.
+When choosing which services to use to solve certain problems, these three characteristics should serve as guiding principles.
 
-The text emphasizes that understanding and interrupting the entire kill chain, rather than focusing on individual exploits like zero-day attacks, is crucial for building robust cyber defenses. By doing so, defenders increase the cost and complexity for adversaries, ultimately enhancing their organization's cybersecurity resilience.
+Key Acronyms in the Field of Information Security
+
+STRIDE: The STRIDE threat model, introduced by Microsoft, is an acronym used to identify security threats. It stands for Spoofing, Tampering, Repudiation, Information Disclosure (i.e., data leakage), Denial of Service, and Elevation of Privilege. These threats are faced not only by enterprise security teams but also by everyday internet users.
+
+  Examples of spoofing include the never-ending waves of spam emails, text messages from new numbers impersonating children, and bank deposit fraud—situations encountered by millions of people daily.
+
+OWASP: The Open Web Application Security Project is a community of security experts and researchers who regularly publish articles, tools, and a top-ten list of security threats. The latest OWASP Top 10 list includes often overlooked dangers such as outdated software and hardware. This threat affects anyone using digital devices, especially since too many people choose to skip those annoying update notifications. OWASP has a high reputation in cybersecurity threat modeling, so their top ten list is worth reviewing.
+
+MITRE ATT&CK: ATT&CK is an open knowledge base for security professionals and individuals. While many threats may not apply to the technologies you use in daily life, MITRE provides an excellent resource for accumulating security knowledge. For those of us looking to enhance online privacy, the "Reconnaissance and Collection" threat groups are particularly important.
+
+
+
