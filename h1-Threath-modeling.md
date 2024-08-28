@@ -1,4 +1,4 @@
-About the Organizing. Threath modeling.
+Threath modeling
 
 In summary, in threat modeling and organizing defenses, the kill chain provides a clear and systematic way to anticipate, detect, and respond to cyber threats by breaking down the attack process into manageable stages.
 
