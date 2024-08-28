@@ -1,4 +1,5 @@
-#Braiterman et al 2020: Threat modeling manifesto
+# Treat Model
+## Braiterman et al 2020: Threat modeling manifesto
 **What is a Threat Model, and What is the Process of Threat Modeling?**
 
 There are various methods, processes, and techniques for threat modeling, but they all share several common principles.
@@ -31,7 +32,7 @@ When choosing which services to use to solve certain problems, these three chara
 
 **MITRE ATT&CK: ATT&CK** is an open knowledge base for security professionals and individuals. While many threats may not apply to the technologies you use in daily life, MITRE provides an excellent resource for accumulating security knowledge. For those of us looking to enhance online privacy, the "Reconnaissance and Collection" threat groups are particularly important.
 
-#Infosec Scene: Darknet Diaries Podcast Episode Summary
+## Infosec Scene: Darknet Diaries Podcast Episode Summary
 
 
 
