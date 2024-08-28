@@ -53,7 +53,7 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 
 
 
-
+## Did we do a good enough job?
 Once you have identified the main threats to your privacy, you can start choosing solutions to protect yourself and your data.
 
 **Step 1: Choose a Secure Email Provider**  
