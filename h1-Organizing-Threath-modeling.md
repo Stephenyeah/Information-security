@@ -29,7 +29,7 @@ When choosing which services to use to solve certain problems, these three chara
 
   Examples of spoofing include the never-ending waves of spam emails, text messages from new numbers impersonating children, and bank deposit fraud—situations encountered by millions of people daily.
 
-##OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
+## OWASP CheatSheets Series Team 2021: Threat Modeling Cheat Sheet
 
 **OWASP:** The Open Web Application Security Project is a community of security experts and researchers who regularly publish articles, tools, and a top-ten list of security threats. The latest OWASP Top 10 list includes often overlooked dangers such as outdated software and hardware. This threat affects anyone using digital devices, especially since too many people choose to skip those annoying update notifications. OWASP has a high reputation in cybersecurity threat modeling, so their top ten list is worth reviewing.
 
