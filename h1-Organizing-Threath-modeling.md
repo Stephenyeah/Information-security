@@ -1,5 +1,5 @@
 # Threat Model
-## Braiterman et al 2020: Threat modeling manifesto
+## X. Braiterman et al 2020: Threat modeling manifesto
 **What is a Threat Model, and What is the Process of Threat Modeling?**
 
 There are various methods, processes, and techniques for threat modeling, but they all share several common principles.
@@ -81,7 +81,7 @@ Alright, let me introduce a few more terms. Security researchers Marit Hansen, M
 
 The text introduces the concept of the "Intrusion Kill Chain," a model adapted from military strategies for cybersecurity. This model outlines the steps an adversary takes to execute a cyberattack and provides a framework for defenders to counter these attacks effectively.
 
-# Security Hygiene 
+# a. Security Hygiene 
 
 ## For Everyone
 
@@ -112,7 +112,7 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 
 # Threat Model for TechnoServe Innovations
 
-## Company Overview
+## b. Make-belief boogie-man
 
 **Company Name:** TechnoServe Innovations  
 **Industry:** Technology and Software Development  
@@ -120,32 +120,6 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 **Key Business Requirement:** Deliver secure and reliable software solutions to clients to maintain customer trust and ensure continuous revenue.
 
 ---
-
-## 1. What Are We Working On?
-
-### Assets:
-- **Customer Data:** Personal information, project details, and financial records.
-- **Proprietary Software:** Source code and intellectual property.
-- **Company Infrastructure:** Servers, databases, and network devices.
-- **Employee Data:** Personal and employment information of staff.
-- **Client Interaction Points:** Customer portals, support channels, and integration APIs.
-
-### Prioritization:
-- **Crown Jewel:** Customer Data
-- **High Priority:** Proprietary Software
-- **Medium Priority:** Company Infrastructure
-- **Lower Priority:** Employee Data
-
-### Security Supports Business:
-- **Customer Trust:** Essential for business continuity and revenue.
-- **Operational Integrity:** Ensures reliable service delivery.
-
-### Customer Touchpoints:
-- **Customer Portals**
-- **Support Channels**
-- **APIs**
-
-### System Diagram:
 
 # System Architecture Diagram
 
@@ -179,7 +153,31 @@ The following diagram illustrates the flow of data and connections between compo
                       +------------------+
 
 
+## 1. What Are We Working On?
 
+### Assets:
+- **Customer Data:** Personal information, project details, and financial records.
+- **Proprietary Software:** Source code and intellectual property.
+- **Company Infrastructure:** Servers, databases, and network devices.
+- **Employee Data:** Personal and employment information of staff.
+- **Client Interaction Points:** Customer portals, support channels, and integration APIs.
+
+### Prioritization:
+- **Crown Jewel:** Customer Data
+- **High Priority:** Proprietary Software
+- **Medium Priority:** Company Infrastructure
+- **Lower Priority:** Employee Data
+
+### Security Supports Business:
+- **Customer Trust:** Essential for business continuity and revenue.
+- **Operational Integrity:** Ensures reliable service delivery.
+
+### Customer Touchpoints:
+- **Customer Portals**
+- **Support Channels**
+- **APIs**
+
+### System Diagram:
 
 ## 2. What Can Go Wrong?
 
