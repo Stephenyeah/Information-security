@@ -109,10 +109,9 @@ The text introduces the concept of the "Intrusion Kill Chain," a model adapted f
 - Implement data encryption
 - Conduct regular backups and disaster recovery drills
 
+# b. Make-belief boogie-man
 
 # Threat Model for TechnoServe Innovations
-
-## b. Make-belief boogie-man
 
 **Company Name:** TechnoServe Innovations  
 **Industry:** Technology and Software Development  
