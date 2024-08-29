@@ -151,6 +151,8 @@ The following diagram illustrates the flow of data and connections between compo
                       |  Support Channels|
                       +------------------+
 
+```
+
 
 ## 1. What Are We Working On?
 
