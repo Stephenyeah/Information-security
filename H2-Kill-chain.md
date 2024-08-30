@@ -149,7 +149,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
      - **Name**: Debian 12 Bookworm
      - **Machine Folder**: Default location
      - **Type**: Linux
-     - **Version**: Debian (64-bit)   // This is important, that if you choose 32-bit will have issue that tell you use a wrong cpu i868
+     - **Version**: Debian (64-bit)   // This is important, that if you choose 32-bit will have issue that tell you use a wrong cpu i868.
 
 ![The concept diagram](Image/h2/2024-08-31 02_18_08-Create Virtual Machine.png)
 
