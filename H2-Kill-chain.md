@@ -264,12 +264,6 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
      sudo reboot
      ```
 
-## 6. Screenshots
-
-1. **VirtualBox Configuration**: Show VM settings.
-2. **Debian Installation**: Capture key setup screens like partitioning and user setup.
-3. **First Boot**: Show the login screen or terminal.
-
 ---
 
 By following these steps, you should be able to install Debian 12 (Bookworm) on VirtualBox successfully. If any issues arise, refer to the VirtualBox or Debian documentation for troubleshooting.
