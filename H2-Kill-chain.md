@@ -69,6 +69,8 @@ Indicators help detect and respond to cyber threats by continuously evolving thr
 
 7. **Actions on Objectives**:  
    The attacker now executes their primary goal, such as data theft, system disruption, or further lateral movement within the network.
+   
+![The concept diagram](Image/福昕截屏20240831001653111.PNG)
 
 # Defensive Strategies
 
@@ -85,7 +87,7 @@ The Intrusion Kill Chain model is valuable for defenders because it maps out the
 - **Disruption**:  
   Utilize antivirus software or Data Execution Prevention (DEP) to interrupt the attack process.
 
-![The concept diagram](Image/福昕截屏20240831001653111.PNG)
+
 
 # Measuring Effectiveness
 
