@@ -150,14 +150,18 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
      - **Machine Folder**: Default location
      - **Type**: Linux
      - **Version**: Debian (64-bit)   // This is important, that if you choose 32-bit will have issue that tell you use a wrong cpu i868
+
 ![The concept diagram](Image/h2/2024-08-31 02_18_08-Create Virtual Machine.png)
+
 2. **Configure VM Settings**:
    - **Memory Size**: Allocate 4096 MB of RAM (4 GB).
    - **Hard Disk**: Select “Create a virtual hard disk now” and click “Create”.
    - **Hard Disk File Type**: Choose “VDI (VirtualBox Disk Image)” and click “Next”.
    - **Storage on Physical Hard Disk**: Select “Dynamically allocated”.
    - **File Location and Size**: Set to 20 GB and click “Create”.
+   - 
 ![The concept diagram](Image/h2/2024-08-31 02_14_05-Create Virtual Machine.png)
+
 ### 3.2 Configure Virtual Machine Settings
 
 1. **Adjust System Settings**:
@@ -174,7 +178,9 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
    - Under the “Network” tab, ensure “Attached to” is set to “NAT” for basic internet access.
 
 ## 4. Installing Debian 12 (Bookworm) on VirtualBox
+
 ![The concept diagram](Image/h2/2024-08-31 01_17_31-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+
 ### 4.1 Start the Installation
 
 1. **Start the VM**:
@@ -198,13 +204,17 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
    - **Domain Name**: Leave blank (or set your own if required).
    - **Root Password**: Set a secure password for the root user.
    - **User Account**: Enter your name, username, and a strong password.
+     
 ![The concept diagram](Image/h2/2024-08-31 01_24_18-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+
 4. **Partition Disks**:
    - Choose “Guided - use entire disk.”
    - Select the available virtual hard disk.
    - Choose “All files in one partition” (default) and click “Continue.”
    - Finish partitioning and write changes to the disk.
+     
 ![The concept diagram](Image/h2/2024-08-31 01_49_21-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+
 5. **Install Base System**:
    - The installer automatically installs the base system. This may take a few minutes.
 
@@ -227,7 +237,9 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
 
 1. **Log In**:
    - Log in using the user credentials created during installation.
+     
 ![The concept diagram](Image/h2/2024-08-31 01_52_41-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+
 2. **Update the System**:
    - Open the terminal and run the following commands to update the package lists and upgrade the system:
      ```bash
