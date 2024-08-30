@@ -151,7 +151,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
      - **Type**: Linux
      - **Version**: Debian (64-bit)   // This is important, that if you choose 32-bit will have issue that tell you use a wrong cpu i868.
 
-![The concept diagram](Image/h2/2024-08-31 02_18_08-Create Virtual Machine.png)
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/7e62dd4fa7fc1c69ec70784aec71f680ccbc33e2/Image/h2/2024-08-31%2002_14_05-Create%20Virtual%20Machine.png)
 
 2. **Configure VM Settings**:
    - **Memory Size**: Allocate 4096 MB of RAM (4 GB).
