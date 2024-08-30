@@ -151,7 +151,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
      - **Type**: Linux
      - **Version**: Debian (64-bit)   // This is important, that if you choose 32-bit will have issue that tell you use a wrong cpu i868.
 
-![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/7e62dd4fa7fc1c69ec70784aec71f680ccbc33e2/Image/h2/2024-08-31%2002_14_05-Create%20Virtual%20Machine.png)
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/7e62dd4fa7fc1c69ec70784aec71f680ccbc33e2/Image/h2/2024-08-31%2002_18_08-Create%20Virtual%20Machine.png)
 
 2. **Configure VM Settings**:
    - **Memory Size**: Allocate 4096 MB of RAM (4 GB).
@@ -160,7 +160,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
    - **Storage on Physical Hard Disk**: Select “Dynamically allocated”.
    - **File Location and Size**: Set to 20 GB and click “Create”.
    - 
-![The concept diagram](Image/h2/2024-08-31 02_14_05-Create Virtual Machine.png)
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/e2072cb40221d1d594a56a46c24a8fb82a00d9a9/Image/h2/2024-08-31%2002_14_28-Create%20Virtual%20Machine.png)
 
 ### 3.2 Configure Virtual Machine Settings
 
@@ -179,7 +179,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
 
 ## 4. Installing Debian 12 (Bookworm) on VirtualBox
 
-![The concept diagram](Image/h2/2024-08-31 01_17_31-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+![The concept diagram]([Image/h2/2024-08-31 01_17_31-DebianZhenyu [Running] - Oracle VM VirtualBox.png](https://github.com/Stephenyeah/Information-security/blob/e2072cb40221d1d594a56a46c24a8fb82a00d9a9/Image/h2/2024-08-31%2001_17_31-DebianZhenyu%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png))
 
 ### 4.1 Start the Installation
 
@@ -205,7 +205,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
    - **Root Password**: Set a secure password for the root user.
    - **User Account**: Enter your name, username, and a strong password.
      
-![The concept diagram](Image/h2/2024-08-31 01_24_18-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/e2072cb40221d1d594a56a46c24a8fb82a00d9a9/Image/h2/2024-08-31%2001_24_18-DebianZhenyu%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png)
 
 4. **Partition Disks**:
    - Choose “Guided - use entire disk.”
@@ -213,7 +213,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
    - Choose “All files in one partition” (default) and click “Continue.”
    - Finish partitioning and write changes to the disk.
      
-![The concept diagram](Image/h2/2024-08-31 01_49_21-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/e2072cb40221d1d594a56a46c24a8fb82a00d9a9/Image/h2/2024-08-31%2001_49_21-DebianZhenyu%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png)
 
 5. **Install Base System**:
    - The installer automatically installs the base system. This may take a few minutes.
@@ -238,7 +238,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
 1. **Log In**:
    - Log in using the user credentials created during installation.
      
-![The concept diagram](Image/h2/2024-08-31 01_52_41-DebianZhenyu [Running] - Oracle VM VirtualBox.png)
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/e2072cb40221d1d594a56a46c24a8fb82a00d9a9/Image/h2/2024-08-31%2001_52_41-DebianZhenyu%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png)
 
 2. **Update the System**:
    - Open the terminal and run the following commands to update the package lists and upgrade the system:
