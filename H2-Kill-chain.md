@@ -30,9 +30,22 @@
 - The paper advocates for an intelligence-driven, threat-focused approach to computer network defense that incorporates detailed intrusion analysis to inform actionable security measures.
 - Future studies will continue to refine these models and explore new applications for enhanced cybersecurity resilience against APTs.
 
+# Indicators and the Indicator Life Cycle
+
+**Indicators** are key pieces of information used to describe and detect cyber intrusions. They fall into three main types:
+
+- **Atomic Indicators**: Simple, indivisible data points like IP addresses or email addresses.
+
+- **Computed Indicators**: Derived data such as file hashes or patterns (regular expressions).
+
+- **Behavioral Indicators**: Complex indicators that describe actions, such as specific sequences of events or patterns in network traffic.
+
+## Summary
+
+Indicators help detect and respond to cyber threats by continuously evolving through discovery, refinement, and application. Proper management is crucial to maintain their effectiveness in cybersecurity.
 
 
-
+![The concept diagram](Image/福昕截屏20240831001718856.PNG)
 
 # Intrusion Kill Chain Phases
 
