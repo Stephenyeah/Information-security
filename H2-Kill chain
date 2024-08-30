@@ -1,6 +1,34 @@
 # x read & sumary
 # Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
 
+## Summary of APTs and the Intelligence-Driven Defense Model
+
+## Overview of Threat Evolution
+- Early threats to computer networks were largely automated, like viruses and worms. Advances in anti-virus technology reduced these risks.
+- A new class of threats known as **Advanced Persistent Threats (APTs)** has emerged, focusing on data compromise for economic or military gain. APTs involve skilled, targeted attacks, often executed over extended periods.
+
+## Characteristics of APTs
+- APTs are manually operated, often evading conventional defenses like firewalls and anti-virus software.
+- APT attacks often involve social engineering, customized malware, and zero-day exploits that conventional defenses cannot detect or mitigate.
+- Historical examples include targeted intrusions documented by U.S. and U.K. agencies, including attacks on NASA, the U.S. Department of Defense, and other government entities, with the goal of collecting sensitive information.
+
+## Challenges with Conventional Responses
+- Traditional incident response methods are inadequate for APTs because they often react only after the compromise and assume the intrusion results from a fixable flaw.
+- Conventional security measures such as patching and anti-virus are insufficient because APTs leverage sophisticated, often unknown vulnerabilities.
+
+## Intelligence-Driven Defense Approach
+- The intelligence-driven model emphasizes understanding intrusions from the adversary's perspective.
+- The **Kill Chain** concept is introduced as a phase-based model that maps the structure of intrusions, guiding defenders on detection, mitigation, and response strategies.
+- The kill chain highlights that attackers must succeed at each phase of the chain to achieve their goal, and breaking the chain at any point disrupts the attack.
+
+## Defensive Strategy and Benefits
+- By analyzing each phase of the intrusion, defenders can develop more resilient defenses and prioritize investments in security technologies and processes.
+- The kill chain model allows for proactive, intelligence-driven responses that increase the adversary's cost and complexity of conducting successful intrusions.
+- This approach provides defenders with an advantage over APT-level adversaries by enabling targeted mitigations and response strategies.
+
+## Conclusion
+- The paper advocates for an intelligence-driven, threat-focused approach to computer network defense that incorporates detailed intrusion analysis to inform actionable security measures.
+- Future studies will continue to refine these models and explore new applications for enhanced cybersecurity resilience against APTs.
 
 
 
