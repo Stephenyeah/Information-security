@@ -85,6 +85,8 @@ The Intrusion Kill Chain model is valuable for defenders because it maps out the
 - **Disruption**:  
   Utilize antivirus software or Data Execution Prevention (DEP) to interrupt the attack process.
 
+![The concept diagram](Image/福昕截屏20240831001653111.PNG)
+
 # Measuring Effectiveness
 
 The effectiveness of these defensive actions can be measured over time:
