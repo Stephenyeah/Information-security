@@ -246,6 +246,7 @@ Understanding and interrupting the entire kill chain, rather than focusing on in
      sudo apt update
      sudo apt upgrade -y
      ```
+![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/1d6232c29e7ed27b4769d0991d3b837d6bcdc294/Image/h2/2024-08-31%2003_01_06-DebianZhenyu%20%5BRunning%5D%20-%20Oracle%20VM%20VirtualBox.png)
 
 3. **Install Guest Additions** (Optional but recommended for better performance and usability):
    - Insert Guest Additions CD Image via the VirtualBox Devices menu.
