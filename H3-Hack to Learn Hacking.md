@@ -5,17 +5,19 @@
 **Introduction:**
 The speaker, a 21-year-old cybersecurity consultant and board member of Test Ser, introduces themselves and outlines their roles, focusing on their collaboration with Coar. Test Ser is a community promoting ethical hacking among young people, encouraging them to develop their skills legally.
 
-**About Test Ser:**
-Test Ser was founded as a community for young people interested in programming, hacking, and cybersecurity. It organizes events like meet-ups, open-source projects, competitions, and charity initiatives, such as donating computers to young enthusiasts. The organization also helps young people report vulnerabilities ethically and collaborates on projects like Cyber Crime Exit, aimed at understanding why young people engage in cybercrime.
+**Test Ser Overview:**  
+Test Ser is a community that supports young people interested in programming, hacking, and cybersecurity through events, projects, and ethical guidance on vulnerability reporting. It also runs initiatives like Cyber Crime Exit to explore the reasons behind youth cybercrime.
 
-**Statistics and Survey Insights:**
-Data from Test Ser's survey highlights how young people get into cybersecurity: mainly through family influence, curiosity, and video games. Many start by bypassing restrictions or modding games. Contrary to the stereotype, young cybersecurity enthusiasts are diverse and not just "lonely nerds."
+**Survey Insights:**  
+Young people often enter cybersecurity through family influence, curiosity, and gaming, starting with activities like bypassing restrictions. These enthusiasts are diverse, breaking the stereotype of being "lonely nerds."
 
-**Why Young People Misbehave Online:**
-Three main motivations for youth cybercrime were identified: bad influences, attention-seeking, and fun. Factors include the thrill of breaking rules, peer pressure, and misconceptions about the anonymity and victimlessness of cybercrimes.
+**Motivations for Cybercrime:**  
+Youth cybercrime is driven by bad influences, a desire for attention, and fun, often fueled by peer pressure, the thrill of rule-breaking, and misunderstandings about the impact of their actions.
 
 **Personal Story:**
-The speaker shares their journey into cybersecurity, starting with curiosity-driven hacking during a lazy weekend. They stumbled upon a vulnerability in an app, which they chose to report instead of exploiting, receiving positive feedback from the company. This experience, coupled with supportive parents, steered them away from cybercrime.
+This is the beginning of his hacking journey. He saw an advertisement for Linnanmäki and thought about whether he could get a free season pass by redeeming an activation code. With a solid programming background, he first downloaded the Linnanmäki app and discovered a JavaScript vulnerability in it. Instead of exploiting the vulnerability for personal gain, he reported it to the Linnanmäki company. As a reward, the company gave him two tickets, which made him very happy.
+
+The most important part was that his parents praised his actions. Rather than criticizing him for engaging in hacking, they encouraged him. This positive reinforcement set him on the path of ethical hacking and inspired him to pursue cybersecurity with integrity.
 
 **Good vs. Bad Interventions:**
 Negative responses, such as punishment or legal threats, can drive young people further into cybercrime. Instead, positive reinforcement, support, and guidance can nurture their skills and direct them toward ethical paths.
