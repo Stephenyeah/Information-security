@@ -53,4 +53,6 @@ Presentation: [I Was Almost a Cybercriminal by Sergey Ichtchenko](https://www.yo
 Source
 Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.com/2020/command-line-basics-revisited/)
 
+# a) Bandit Oh-Five (Levels 0-4)
+
 
