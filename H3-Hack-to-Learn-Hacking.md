@@ -38,14 +38,19 @@ The speaker emphasizes the importance of community and positive reinforcement in
 Presentation: [I Was Almost a Cybercriminal by Sergey Ichtchenko](https://www.youtube.com/watch?v=Nh7OrFVyDo0).
 
 # Summary of "Command Line Basics Revisited" by Tero Karvinen
-Overview: The guide revisits essential command-line skills, providing practical tips.
 
-Key Topics:
 
-Basic commands for navigating directories, viewing files, and managing file systems.
-How to use SSH for remote access and secure file transfers.
-Instructions on package management, including installing and removing software.
+### Overview: 
+
+The guide covers fundamental command-line skills with practical advice.
+
+### Key Topics:
+
+Essential commands for directory navigation, file viewing, and file system management.
+Using SSH for remote access and secure file transfers.
+Guidelines on package management, including software installation and removal.
+
 Source
-Article: Command Line Basics Revisited by Tero Karvinen
+Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.com/2020/command-line-basics-revisited/)
 
 
