@@ -1,6 +1,6 @@
 
 # x. Summary of Presentation on I Was Almost a Cybercriminal - Sergey Ichtchenko
-(https://www.youtube.com/watch?v=Nh7OrFVyDo0)
+
 
 **Introduction:**
 The speaker, a 21-year-old cybersecurity consultant and board member of Test Ser, introduces themselves and outlines their roles, focusing on their collaboration with Coar. Test Ser is a community promoting ethical hacking among young people, encouraging them to develop their skills legally.
@@ -34,5 +34,19 @@ Young people should seek communities like Test Ser or Next Gen Hack and access r
 
 **Conclusion:**
 The speaker emphasizes the importance of community and positive reinforcement in guiding young people's skills in cybersecurity. Supporting young hackers and providing clear pathways for ethical hacking can help prevent them from veering into cybercrime.
+## source
+Presentation:[I Was Almost a Cybercriminal by Sergey Ichtchenko]
+(https://www.youtube.com/watch?v=Nh7OrFVyDo0)
+
+# Summary of "Command Line Basics Revisited" by Tero Karvinen
+Overview: The guide revisits essential command-line skills, providing practical tips.
+
+Key Topics:
+
+Basic commands for navigating directories, viewing files, and managing file systems.
+How to use SSH for remote access and secure file transfers.
+Instructions on package management, including installing and removing software.
+Source
+Article: Command Line Basics Revisited by Tero Karvinen
 
 
