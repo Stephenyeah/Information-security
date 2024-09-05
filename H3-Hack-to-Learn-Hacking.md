@@ -35,8 +35,7 @@ Young people should seek communities like Test Ser or Next Gen Hack and access r
 **Conclusion:**
 The speaker emphasizes the importance of community and positive reinforcement in guiding young people's skills in cybersecurity. Supporting young hackers and providing clear pathways for ethical hacking can help prevent them from veering into cybercrime.
 ## source
-Presentation: [I Was Almost a Cybercriminal by Sergey Ichtchenko]
-(https://www.youtube.com/watch?v=Nh7OrFVyDo0).
+Presentation: [I Was Almost a Cybercriminal by Sergey Ichtchenko](https://www.youtube.com/watch?v=Nh7OrFVyDo0).
 
 # Summary of "Command Line Basics Revisited" by Tero Karvinen
 Overview: The guide revisits essential command-line skills, providing practical tips.
