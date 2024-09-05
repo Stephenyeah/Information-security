@@ -17,6 +17,10 @@ Youth cybercrime is driven by bad influences, a desire for attention, and fun, o
 **Personal Story:**
 This is the beginning of his hacking journey. He saw an advertisement for Linnanmäki and thought about whether he could get a free season pass by redeeming an activation code. With a solid programming background, he first downloaded the Linnanmäki app and discovered a JavaScript vulnerability in it. Instead of exploiting the vulnerability for personal gain, he reported it to the Linnanmäki company. As a reward, the company gave him two tickets, which made him very happy.
 
+![Screensho](https://github.com/Stephenyeah/Information-security/blob/aa3b109a82ab6a02eb915f0ed40289e178bc801f/Image/h3/%E7%A6%8F%E6%98%95%E6%88%AA%E5%B1%8F20240906000724133.PNG)
+
+![Screensho](https://github.com/Stephenyeah/Information-security/blob/aa3b109a82ab6a02eb915f0ed40289e178bc801f/Image/h3/%E7%A6%8F%E6%98%95%E6%88%AA%E5%B1%8F20240906000754036.PNG)
+
 The most important part was that his parents praised his actions. Rather than criticizing him for engaging in hacking, they encouraged him. This positive reinforcement set him on the path of ethical hacking and inspired him to pursue cybersecurity with integrity.
 
 **Good vs. Bad Interventions:**
