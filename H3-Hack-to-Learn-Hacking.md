@@ -42,13 +42,13 @@ Presentation: [I Was Almost a Cybercriminal by Sergey Ichtchenko](https://www.yo
 
 ### Overview: 
 
-The guide covers fundamental command-line skills with practical advice.
+-The guide covers fundamental command-line skills with practical advice.
 
 ### Key Topics:
 
-Essential commands for directory navigation, file viewing, and file system management.
-Using SSH for remote access and secure file transfers.
-Guidelines on package management, including software installation and removal.
+-Essential commands for directory navigation, file viewing, and file system management.
+-Using SSH for remote access and secure file transfers.
+-Guidelines on package management, including software installation and removal.
 
 Source
 Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.com/2020/command-line-basics-revisited/)
