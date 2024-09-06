@@ -89,7 +89,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
 
 ### tips
-    - Use the password to login the Bandit1. (Ctrl+shift+C) and (Ctrl+shift+V) Maybe can use for the copy and paste the password.
+    - Use the password to login the Bandit1. (Ctrl+shift+C) and (Ctrl+shift+V) Maybe you can use for the copy and paste the password.
 ---
 
 ### Bandit Level 1 → Level 2
