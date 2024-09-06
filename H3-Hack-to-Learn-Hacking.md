@@ -153,9 +153,10 @@ Using the ping command, I checked the network connection between my computer (na
 ![2024-09-06 14_26_36-Settings](https://github.com/user-attachments/assets/892aa76a-93ed-463b-b071-c6a21ac1c7d8)
 
 ## It is wired I can't see any in the NAT of VMWare.
-**But I can see something in my local Ubuntu**
+**But I can see something in my local Ubuntu, even if Windows**
 
 ![2024-09-06 14_23_57-stephenyeah@LAPTOP-LKMBT68D_ ~](https://github.com/user-attachments/assets/e847926e-d3c0-4454-8e2e-0ebbda050c67)
+![2024-09-06 15_08_55-h3](https://github.com/user-attachments/assets/38763278-beee-4b41-a923-318d35179ec2)
 
 **Let me try some other command**
 
