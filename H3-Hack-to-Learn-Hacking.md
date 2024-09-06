@@ -59,7 +59,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
 ### Bandit Level 0
 - **Steps**:
-  1. Open a terminal.
+  1. Open a terminal from your computer could be anywhere is avilable to the internet. (Not windows CMD, some keys are different. Powershell is okay)
   2. Use the following SSH command to connect:
      ```bash
      ssh bandit0@bandit.labs.overthewire.org -p 2220
@@ -83,12 +83,13 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
   ![2024-09-06 12_13_55-VirtualBoxVM](https://github.com/user-attachments/assets/85a5c4cf-448f-413a-ac18-df564c6ef6a6)
 
   3. The file contains the password for Level 1.
-
+  
 
   ![2024-09-06 12_12_55-VirtualBoxVM](https://github.com/user-attachments/assets/cfdde901-e5c9-4f9f-8f3f-d6aac505e277)
 
 
-
+### tips
+    - Use the password to login the Bandit1. (Ctrl+shift+C) and (Ctrl+shift+V) Maybe can use for the copy and paste the password.
 ---
 
 ### Bandit Level 1 → Level 2
@@ -180,9 +181,9 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 ![2024-09-06 12_52_03-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/17d85680-71e2-4f12-995b-ce0a81db8cda)
 ![2024-09-06 12_52_25-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/7b80d0ce-25bf-4a53-ae43-76c3acd17b86)
 
-## Source
+### Source
 
-- **Wargame**: [OverTheWire - Bandit Wargame](https://overthewire.org/wargames/bandit/)
+- **Wargame**: [**OverTheWire - Bandit Wargame**](https://overthewire.org/wargames/bandit/)
 
 ---
 
