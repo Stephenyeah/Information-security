@@ -70,7 +70,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
 ---
 
-### Bandit Level 0 → Level 4
+### Bandit Level 0 → Level 1
 - **Steps**:
   1. List the files in the home directory:
      ```bash
@@ -89,6 +89,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
 
 ### tips
+
     - Use the password to login the Bandit1. (Ctrl+shift+C) and (Ctrl+shift+V) Maybe you can use for the copy and paste the password.
 ---
 
@@ -97,7 +98,9 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
 ![2024-09-06 12_21_47-VirtualBoxVM](https://github.com/user-attachments/assets/77a874b4-0379-4900-95a3-7e73412f1b23)
 
-## Just reach the lever 4.
+## Hide all the step from lever 1 to 4.
+
+## Fast reach the lever 4.
 
 ---
 
