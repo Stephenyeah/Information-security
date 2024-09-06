@@ -98,7 +98,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
 ![2024-09-06 12_21_47-VirtualBoxVM](https://github.com/user-attachments/assets/77a874b4-0379-4900-95a3-7e73412f1b23)
 
-## Hide all the step from lever 1 to 4.
+## I have past all the steps from lever0-4. It is not hard, If you have any question feel free to ask.
 
 ## Fast reach the lever 4.
 
