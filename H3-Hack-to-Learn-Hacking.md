@@ -92,23 +92,6 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
     - Use the password to login the Bandit1. (Ctrl+shift+C) and (Ctrl+shift+V) Maybe you can use for the copy and paste the password.
 ---
 
-### Bandit Level 1 → Level 2
-- **Steps**:
-  1. List the files in the home directory:
-     ```bash
-     ls
-     ```
-  2. Read the content of the file named `-`:
-     ```bash
-     cat ./-
-     ```
-![2024-09-06 12_16_49-VirtualBoxVM](https://github.com/user-attachments/assets/f779b878-e011-4407-ac50-a70d0fd20765)
-
-
-
-![2024-09-06 12_19_20-VirtualBoxVM](https://github.com/user-attachments/assets/496fc824-4889-4d3b-85c5-c4060270550d)
-
-
 
 ![2024-09-06 12_21_47-VirtualBoxVM](https://github.com/user-attachments/assets/77a874b4-0379-4900-95a3-7e73412f1b23)
 
