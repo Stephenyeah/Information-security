@@ -92,7 +92,8 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
     - Use the password to login the Bandit1. (Ctrl+shift+C) and (Ctrl+shift+V) Maybe you can use for the copy and paste the password.
 ---
 
-![2024-09-06 12_49_55-VirtualBoxVM](https://github.com/user-attachments/assets/c5cfe7bf-26de-40a9-ae96-1b233f54d962)
+![2024-09-06 12_49_55-VirtualBoxVM](https://github.com/user-attachments/assets/f7d12ab9-b312-4555-99ea-864545e4385c)
+
 
 ![2024-09-06 12_21_47-VirtualBoxVM](https://github.com/user-attachments/assets/77a874b4-0379-4900-95a3-7e73412f1b23)
 
