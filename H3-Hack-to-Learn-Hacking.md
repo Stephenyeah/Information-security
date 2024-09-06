@@ -65,8 +65,8 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ssh bandit0@bandit.labs.overthewire.org -p 2220
      ```
   3. Enter the password: `bandit0`.
-
-![Screenshot 2024-09-05 220402](https://github.com/user-attachments/assets/dc30b7f7-248d-4ac6-8b6a-5c68a05e9e3f)
+     
+![2024-09-06 12_12_55-VirtualBoxVM](https://github.com/user-attachments/assets/1d7b8443-469a-4fa6-8a7a-37e49f0a7bee)
 
 ---
 
@@ -80,10 +80,13 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```bash
      cat readme
      ```
+  ![2024-09-06 12_13_55-VirtualBoxVM](https://github.com/user-attachments/assets/85a5c4cf-448f-413a-ac18-df564c6ef6a6)
+
   3. The file contains the password for Level 1.
 
-![Screenshot 2024-09-05 220656](https://github.com/user-attachments/assets/3a7a7295-306b-4033-8acd-dc96710de307)
-![Screenshot 2024-09-05 221139](https://github.com/user-attachments/assets/e6bafb1d-2506-4622-9c18-b7ee35c06c07)
+![2024-09-06 12_15_35-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/0946679a-f62c-4a2b-9858-3227f72450f8)
+
+
 
 ---
 
