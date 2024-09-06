@@ -211,4 +211,13 @@ Using the ping command, I checked the network connection between my computer (na
 
 ## Yes, I can see something. Yeah! At list I fished a shose.
 
+# c) Local only.
+
+![2024-09-06 14_43_35-VirtualBoxVM](https://github.com/user-attachments/assets/8ffdf077-401b-4991-a539-738ef9bb57a4)
+
+![2024-09-06 14_44_09-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/5d426855-a898-41c5-802a-ec02f069fd73)
+
+### Sources: Karvinen. 2024. https://terokarvinen.com/information-security/
+
+
 
