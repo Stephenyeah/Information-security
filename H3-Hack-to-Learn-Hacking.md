@@ -186,4 +186,25 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 - **Wargame**: [**OverTheWire - Bandit Wargame**](https://overthewire.org/wargames/bandit/)
 
 ---
+# b) Can't fish.
+
+Using the ping command, I checked the network connection between my computer (named @miau) and two DNS servers: Cloudflare's (1.1.1.1) and Google's (8.8.8.8). The command sent echo requests using the Internet Control Message Protocol. Each response line showed that packets (64 bytes each) were successfully sent and received, including the sequence number (from 1 to 4), the time-to-live value, and the round-trip time in milliseconds. All eight packets were transmitted and received without any loss, confirming that my system is properly connected to these DNS servers.
+
+![2024-09-06 14_27_51-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/bb927aba-0119-4a20-8e8f-2223680dc279)
+
+![2024-09-06 14_27_29-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/d5a90b51-b67f-4c1b-ade5-110cb531d160)
+
+### Now I try to dig something from the webname.
+![2024-09-06 14_25_57-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/8ac7db66-2d2d-4f4b-987f-593c2a9bddd0)
+
+![2024-09-06 14_26_36-Settings](https://github.com/user-attachments/assets/892aa76a-93ed-463b-b071-c6a21ac1c7d8)
+**It is wired I can't see any in the NAT of VMWare.**
+**But I can see something in my local Ubuntu**
+![2024-09-06 14_23_57-stephenyeah@LAPTOP-LKMBT68D_ ~](https://github.com/user-attachments/assets/e847926e-d3c0-4454-8e2e-0ebbda050c67)
+
+**Let me try some other command**
+![2024-09-06 14_25_18-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/2a58955a-d183-45ed-86ed-70da5dcf900d)
+
+**Yes, I can see something. Yeah! That I fished a shose.** 
+
 
