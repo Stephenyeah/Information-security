@@ -84,7 +84,8 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
   3. The file contains the password for Level 1.
 
-![2024-09-06 12_15_35-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/0946679a-f62c-4a2b-9858-3227f72450f8)
+
+  ![2024-09-06 12_12_55-VirtualBoxVM](https://github.com/user-attachments/assets/cfdde901-e5c9-4f9f-8f3f-d6aac505e277)
 
 
 
@@ -100,10 +101,12 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```bash
      cat ./-
      ```
+![2024-09-06 12_16_49-VirtualBoxVM](https://github.com/user-attachments/assets/f779b878-e011-4407-ac50-a70d0fd20765)
+
   3. The file contains the password for Level 2.
 
-![Screenshot 2024-09-05 221429](https://github.com/user-attachments/assets/8752d549-638c-4db2-93f2-c490f3324c88)
-![Screenshot 2024-09-05 221741](https://github.com/user-attachments/assets/61f2eca4-964f-4897-9055-c4392a4d9a29)
+![2024-09-06 12_19_20-VirtualBoxVM](https://github.com/user-attachments/assets/496fc824-4889-4d3b-85c5-c4060270550d)
+
 
 ---
 
@@ -121,11 +124,12 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```
      The backslashes (`\`) are used to escape the spaces in the filename.
 
-  3. The file contains the password for Level 3.
+![2024-09-06 12_21_01-VirtualBoxVM](https://github.com/user-attachments/assets/f4b45923-33c3-4e23-ac28-454bc649362f)
 
-![Screenshot 2024-09-05 222031](https://github.com/user-attachments/assets/cf1ba37b-2cc6-49be-9ab2-6a954621b60b)
-![Screenshot 2024-09-05 222155](https://github.com/user-attachments/assets/224c48bd-f7f9-4af1-9144-c1b5dd03d071)
 
+  4. The file contains the password for Level 3.
+
+![2024-09-06 12_21_47-VirtualBoxVM](https://github.com/user-attachments/assets/77a874b4-0379-4900-95a3-7e73412f1b23)
 
 ---
 
@@ -143,10 +147,13 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```bash
      cat ...Hiding-From-You
      ```
+     
+![2024-09-06 12_49_55-VirtualBoxVM](https://github.com/user-attachments/assets/255052c9-4691-4e68-9c54-9059e1d31cba)
+
   4. The file contains the password for Level 4.
 
-![Screenshot 2024-09-05 222958](https://github.com/user-attachments/assets/9e55e697-c1dd-4055-97ee-7dbe230ce0fa)
-![Screenshot 2024-09-05 223019](https://github.com/user-attachments/assets/4f6db0ba-a578-46a6-9268-f7183e3ae7aa)
+![2024-09-06 12_24_34-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/a5269c78-6f68-4cbb-8486-9d7bb3eb8c16)
+
 
 ---
 
@@ -156,9 +163,6 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```bash
      cd inhere
      ```
-
-![Screenshot 2024-09-05 234025](https://github.com/user-attachments/assets/53c595bb-f2da-4ab0-809c-39de4147853b)
-
   2. Use the `file` command to identify the human-readable file:
      ```bash
      file ./-file*
@@ -168,9 +172,12 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```bash
      cat <filename>
      ```
-  5. The file contains the password for Level 5.
+     ![2024-09-06 12_29_14-h3](https://github.com/user-attachments/assets/841f308f-9402-4c73-943f-031763b3ec8b)
 
-![Screenshot 2024-09-05 234042](https://github.com/user-attachments/assets/2895979b-4ccf-409d-9f60-cbccbc320527)
+  5. The file contains the password for Level 5.
+     
+![2024-09-06 12_52_03-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/17d85680-71e2-4f12-995b-ce0a81db8cda)
+![2024-09-06 12_52_25-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/7b80d0ce-25bf-4a53-ae43-76c3acd17b86)
 
 ## Source
 
