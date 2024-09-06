@@ -165,7 +165,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```
   2. Use the `file` command to identify the human-readable file:
      ```bash
-     file ./-file*
+     file ./-fi*
      ```
   3. Locate the file that is marked as ASCII text.
   4. Display the content of the human-readable file:
