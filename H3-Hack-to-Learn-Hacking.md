@@ -70,7 +70,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
 
 ---
 
-### Bandit Level 0 → Level 1
+### Bandit Level 0 → Level 4
 - **Steps**:
   1. List the files in the home directory:
      ```bash
@@ -81,7 +81,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      cat readme
      ```
   ![2024-09-06 12_13_55-VirtualBoxVM](https://github.com/user-attachments/assets/85a5c4cf-448f-413a-ac18-df564c6ef6a6)
-
+  
   3. The file contains the password for Level 1.
   
 
@@ -92,6 +92,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
     - Use the password to login the Bandit1. (Ctrl+shift+C) and (Ctrl+shift+V) Maybe you can use for the copy and paste the password.
 ---
 
+![2024-09-06 12_49_55-VirtualBoxVM](https://github.com/user-attachments/assets/c5cfe7bf-26de-40a9-ae96-1b233f54d962)
 
 ![2024-09-06 12_21_47-VirtualBoxVM](https://github.com/user-attachments/assets/77a874b4-0379-4900-95a3-7e73412f1b23)
 
