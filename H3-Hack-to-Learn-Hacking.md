@@ -104,54 +104,18 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```
 ![2024-09-06 12_16_49-VirtualBoxVM](https://github.com/user-attachments/assets/f779b878-e011-4407-ac50-a70d0fd20765)
 
-  3. The file contains the password for Level 2.
+
 
 ![2024-09-06 12_19_20-VirtualBoxVM](https://github.com/user-attachments/assets/496fc824-4889-4d3b-85c5-c4060270550d)
 
 
----
-
-### Bandit Level 2 → Level 3
-- **Steps**:
-  1. List the files in the home directory:
-     ```bash
-     ls -a
-     ```
-     This will show the files, including the one named with spaces in the filename.
-
-  2. Display the content of the file using:
-     ```bash
-     cat spaces\ in\ this\ filename
-     ```
-     The backslashes (`\`) are used to escape the spaces in the filename.
-
-![2024-09-06 12_21_01-VirtualBoxVM](https://github.com/user-attachments/assets/f4b45923-33c3-4e23-ac28-454bc649362f)
-
-
-  4. The file contains the password for Level 3.
 
 ![2024-09-06 12_21_47-VirtualBoxVM](https://github.com/user-attachments/assets/77a874b4-0379-4900-95a3-7e73412f1b23)
 
+## Just reach the lever 4.
+
 ---
 
-### Bandit Level 3 → Level 4
-- **Steps**:
-  1. Navigate to the `inhere` directory:
-     ```bash
-     cd inhere
-     ```
-  2. List all files, including hidden ones:
-     ```bash
-     ls -a
-     ```
-  3. Read the hidden file :
-     ```bash
-     cat ...Hiding-From-You
-     ```
-     
-![2024-09-06 12_49_55-VirtualBoxVM](https://github.com/user-attachments/assets/255052c9-4691-4e68-9c54-9059e1d31cba)
-
-  4. The file contains the password for Level 4.
 
 ![2024-09-06 12_24_34-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/a5269c78-6f68-4cbb-8486-9d7bb3eb8c16)
 
