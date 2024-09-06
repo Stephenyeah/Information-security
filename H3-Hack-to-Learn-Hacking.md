@@ -167,6 +167,7 @@ Article: [Command Line Basics Revisited by Tero Karvinen](https://terokarvinen.c
      ```bash
      file ./-fi*
      ```
+     // You could understand * can be anything.
   3. Locate the file that is marked as ASCII text.
   4. Display the content of the human-readable file:
      ```bash
