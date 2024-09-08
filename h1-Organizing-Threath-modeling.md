@@ -70,7 +70,7 @@ When choosing which services to use to solve certain problems, these three chara
 
 Alright, let me introduce a few more terms. Security researchers Marit Hansen, Meiko Jensen, and Marin Rost published a paper that extends the CIA triad, focusing on better privacy protection in threat modeling. They proposed the concepts of "Unlinkability," "Transparency," and "Intervenability."
 
-![The concept diagram](https://github.com/Stephenyeah/Information-security/blob/study/2024-08-28%2023_27_08-2024Tuta.png)
+![2024-08-28 23_27_08-2024Tuta](https://github.com/user-attachments/assets/3e6acef8-8c6a-4dad-9396-32f71dfd1d16)
 
 **Unlinkability** is defined as "the characteristic that privacy-related data cannot be linked across domains, which are constituted by a common purpose and context." This means it should be impossible to associate you as an individual with your online data.
 
