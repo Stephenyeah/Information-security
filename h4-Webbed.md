@@ -17,25 +17,25 @@
 
 ## Security Misconfiguration Summary:
 
-    - **Found in 90% of applications**, with over 208,000 occurrences.
-    - **Common issues**:
-      - Missing security hardening across the stack.
-      - Unnecessary features, services, or ports enabled.
-      - Default accounts and passwords left unchanged.
-      - Exposing overly informative error messages (e.g., stack traces).
-      - Outdated or insecure configurations (e.g., server settings, libraries).
-      - Missing security headers or directives.
-      - Outdated software versions with vulnerabilities.
+  - **Found in 90% of applications**, with over 208,000 occurrences.
+  - **Common issues**:
+    - Missing security hardening across the stack.
+    - Unnecessary features, services, or ports enabled.
+    - Default accounts and passwords left unchanged.
+    - Exposing overly informative error messages (e.g., stack traces).
+    - Outdated or insecure configurations (e.g., server settings, libraries).
+    - Missing security headers or directives.
+    - Outdated software versions with vulnerabilities.
     
-    - **Prevention**:
-      - Use a repeatable hardening process across environments (Dev, QA, Production).
-      - Remove unnecessary features and components.
-      - Regularly review and update configurations, security patches, and cloud permissions.
-      - Segment applications and use secure separation (e.g., containers, ACLs).
-      - Automate configuration checks and security testing.
+   - **Prevention**:
+    - Use a repeatable hardening process across environments (Dev, QA, Production).
+    - Remove unnecessary features and components.
+    - Regularly review and update configurations, security patches, and cloud permissions.
+    - Segment applications and use secure separation (e.g., containers, ACLs).
+    - Automate configuration checks and security testing.
     
-    - **Example attacks**:
-      - Sample apps with security flaws left on production servers.
-      - Directory listings not disabled, allowing access to sensitive files.
-      - Exposing detailed error messages to users.
-      - Cloud storage with default open permissions, allowing unauthorized data access.
+   - **Example attacks**:
+    - Sample apps with security flaws left on production servers.
+    - Directory listings not disabled, allowing access to sensitive files.
+    - Exposing detailed error messages to users.
+    - Cloud storage with default open permissions, allowing unauthorized data access.
