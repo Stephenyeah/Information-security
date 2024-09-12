@@ -2,18 +2,60 @@
 
 
 ## Broken Access Control Summary:
-  - **Found in 94% of applications**, with 318,000+ cases.
-  - **Users can perform actions beyond their permissions**.
-  - Common issues include:
-    - Bypassing controls by changing URLs or parameters.
-    - Viewing/editing others' data.
-    - Missing API access protections (POST, PUT, DELETE).
-    - Privilege escalation (user gaining admin rights).
-  - **Prevent by**:
-    - Implementing strict server-side controls.
-    - Denying access by default.
-    - Logging and limiting access attempts.
-    - Invalidating session tokens after logout.
+- **Found in 94% of applications**, with 318,000+ cases.
+- **Users can perform actions beyond their permissions**.
+
+- **Common issues include**:
+  - **Bypassing controls**: Changing URLs or parameters.
+    
+    ```java
+    // Vulnerable code allowing access to other user’s data
+    String userId = request.getParameter("userId");
+    User user = userService.getUserById(userId);
+    ```
+
+  - **Viewing/editing others' data**: Directly accessing data not meant for the user.
+
+  - **Missing API access protections**: Unrestricted access to POST, PUT, DELETE methods.
+    
+    ```java
+    // Example of missing access control on API endpoints
+    @PostMapping("/update")
+    public ResponseEntity<String> updateData(@RequestBody Data data) {
+        dataService.updateData(data);
+        return ResponseEntity.ok("Data updated");
+    }
+    ```
+
+  - **Privilege escalation**: Users gaining unauthorized access or admin rights.
+
+- **Prevent by**:
+  - **Implementing strict server-side controls**.
+    
+    ```java
+    // Enforcing access control on server-side
+    if (!user.hasPermission("admin")) {
+        throw new AccessDeniedException("Access denied");
+    }
+    ```
+
+  - **Denying access by default**.
+
+  - **Logging and limiting access attempts**.
+    
+    ```java
+    // Logging failed access attempts
+    if (accessFailed) {
+        logger.warn("Access attempt failed for user: " + userId);
+    }
+    ```
+
+  - **Invalidating session tokens after logout**.
+    
+    ```java
+    // Invalidate session token after logout
+    session.invalidate();
+    ```
 
 ## Security Misconfiguration Summary:
 
