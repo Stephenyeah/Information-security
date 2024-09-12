@@ -119,24 +119,48 @@
 
 ## Vulnerable and Outdated Components Summary:
 
-  - **Found in 27.96% of applications**, with an average incidence rate of 8.77%.
-  - **Common issues**:
-    - Using vulnerable, outdated, or unsupported software components.
-    - Not knowing the versions of all components or dependencies used.
-    - Failing to scan for vulnerabilities or patch components in a timely manner.
-    - Not testing the compatibility of updated libraries.
-    - Not securing component configurations.
-  
-  - **Prevention**:
-    - Implement a patch management process.
-    - Regularly inventory and monitor components and dependencies.
-    - Use software composition analysis tools to automate vulnerability detection.
-    - Remove unused components and features.
-    - Obtain components from official sources and use signed packages.
+- **Found in 27.96% of applications**, with an average incidence rate of 8.77%.
+
+- **Common issues**:
+
+  - **Using vulnerable, outdated, or unsupported software components**:
     
-  - **Example attacks**:
-    - CVE-2017-5638: Struts 2 remote code execution vulnerability, causing major breaches.
-    - IoT devices with unpatched vulnerabilities like Heartbleed are easily exploitable.
+    ```bash
+    # Example: Check for outdated packages on a Debian-based system
+    sudo apt list --upgradable
+    
+    # Update outdated packages
+    sudo apt update
+    sudo apt upgrade
+    ```
+
+  - **Not knowing the versions of all components or dependencies used**:
+    
+    ```bash
+    # Example: List installed Python packages and their versions
+    pip freeze
+    
+    # Example: List npm packages and their versions
+    npm list --depth=0
+    ```
+
+- **Prevention**:
+
+  - **Implement a patch management process**.
+  
+  - **Regularly inventory and monitor components and dependencies**.
+  
+  - **Use software composition analysis tools to automate vulnerability detection**.
+  
+  - **Remove unused components and features**.
+  
+  - **Obtain components from official sources and use signed packages**.
+
+- **Example attacks**:
+
+  - **CVE-2017-5638**: Struts 2 remote code execution vulnerability, causing major breaches.
+  
+  - **IoT devices** with unpatched vulnerabilities like Heartbleed are easily exploitable.
 
 
 ## Injection Summary:
