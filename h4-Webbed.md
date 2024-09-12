@@ -30,12 +30,12 @@
    - **Prevention**:
      - Use a repeatable hardening process across environments (Dev, QA, Production).
      - Remove unnecessary features and components.
-    - Regularly review and update configurations, security patches, and cloud permissions.
-    - Segment applications and use secure separation (e.g., containers, ACLs).
-    - Automate configuration checks and security testing.
+     - Regularly review and update configurations, security patches, and cloud permissions.
+     - Segment applications and use secure separation (e.g., containers, ACLs).
+     - Automate configuration checks and security testing.
     
    - **Example attacks**:
-    - Sample apps with security flaws left on production servers.
-    - Directory listings not disabled, allowing access to sensitive files.
-    - Exposing detailed error messages to users.
-    - Cloud storage with default open permissions, allowing unauthorized data access.
+     - Sample apps with security flaws left on production servers.
+     - Directory listings not disabled, allowing access to sensitive files.
+     - Exposing detailed error messages to users.
+     - Cloud storage with default open permissions, allowing unauthorized data access.
