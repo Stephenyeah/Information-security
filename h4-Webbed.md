@@ -61,3 +61,41 @@
   - **Example attacks**:
     - CVE-2017-5638: Struts 2 remote code execution vulnerability, causing major breaches.
     - IoT devices with unpatched vulnerabilities like Heartbleed are easily exploitable.
+
+
+## Injection Summary:
+
+  - **Found in 94% of applications**, with 274,000+ occurrences.
+  - **Common types of injection**:
+    - **SQL Injection (CWE-89)**: Example of vulnerable code:
+  
+      ```java
+      String query = "SELECT * FROM accounts WHERE custID='" + request.getParameter("id") + "'";
+      ```
+  
+      An attacker could modify the `id` parameter to inject SQL, like:
+  
+      ```http
+      http://example.com/app/accountView?id=' UNION SELECT SLEEP(10);--
+      ```
+  
+    - **Cross-site Scripting (CWE-79)**: Inserting malicious scripts in web pages to execute in other users' browsers.
+    - **External Control of File Name/Path (CWE-73)**: Using untrusted input to control file paths.
+  
+  - **Vulnerable when**:
+    - User-supplied data is not validated, filtered, or sanitized.
+    - Dynamic queries or non-parameterized calls are used.
+    - Hostile data is used in queries or commands.
+  
+  - **Prevention**:
+    - Use **parameterized queries** and safe APIs to avoid interpreters.
+    
+      ```java
+      String query = "SELECT * FROM accounts WHERE custID = ?";
+      PreparedStatement pstmt = connection.prepareStatement(query);
+      pstmt.setString(1, request.getParameter("id"));
+      ```
+  
+    - Validate user input on the **server side**.
+    - Escape special characters in dynamic queries.
+    - Use SQL controls like `LIMIT` to minimize data exposure in case of injection.
