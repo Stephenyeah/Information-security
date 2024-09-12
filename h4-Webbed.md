@@ -59,28 +59,62 @@
 
 ## Security Misconfiguration Summary:
 
-  - **Found in 90% of applications**, with over 208,000 occurrences.
-  - **Common issues**:
-    - Missing security hardening across the stack.
-    - Unnecessary features, services, or ports enabled.
-    - Default accounts and passwords left unchanged.
-    - Exposing overly informative error messages (e.g., stack traces).
-    - Outdated or insecure configurations (e.g., server settings, libraries).
-    - Missing security headers or directives.
-    - Outdated software versions with vulnerabilities.
+- **Found in 90% of applications**, with over 208,000 occurrences.
+
+- **Common issues**:
+
+  - **Missing security hardening across the stack**:
     
-   - **Prevention**:
-     - Use a repeatable hardening process across environments (Dev, QA, Production).
-     - Remove unnecessary features and components.
-     - Regularly review and update configurations, security patches, and cloud permissions.
-     - Segment applications and use secure separation (e.g., containers, ACLs).
-     - Automate configuration checks and security testing.
+    ```bash
+    # Disable unnecessary services and ports on a Linux server
+    sudo systemctl stop <service_name>
+    sudo systemctl disable <service_name>
     
-   - **Example attacks**:
-     - Sample apps with security flaws left on production servers.
-     - Directory listings not disabled, allowing access to sensitive files.
-     - Exposing detailed error messages to users.
-     - Cloud storage with default open permissions, allowing unauthorized data access.
+    # Example: Disable HTTP service if not needed
+    sudo systemctl stop httpd
+    sudo systemctl disable httpd
+    ```
+
+  - **Unnecessary features, services, or ports enabled**:
+    
+    ```bash
+    # List open ports on a Linux server
+    sudo netstat -tuln
+    
+    # Example: Close an unnecessary open port (e.g., port 8080)
+    sudo ufw deny 8080/tcp
+    ```
+
+- **Prevention**:
+
+  - **Use a repeatable hardening process across environments (Dev, QA, Production)**.
+
+  - **Remove unnecessary features and components**.
+  
+  - **Regularly review and update configurations, security patches, and cloud permissions**.
+  
+  - **Segment applications and use secure separation (e.g., containers, ACLs)**.
+  
+  - **Automate configuration checks and security testing**.
+
+- **Example attacks**:
+
+  - **Sample apps with security flaws left on production servers**.
+    
+    ```java
+    // Example of insecure code with sample apps included
+    // Ensure sample applications and default configurations are removed
+    ```
+
+  - **Directory listings not disabled, allowing access to sensitive files**:
+    
+    ```apache
+    # Disable directory listing in Apache configuration
+    <Directory /var/www/html>
+        Options -Indexes
+    </Directory>
+    ```
+
     
 
 ## Vulnerable and Outdated Components Summary:
