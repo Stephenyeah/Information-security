@@ -199,3 +199,8 @@
     - Validate user input on the **server side**.
     - Escape special characters in dynamic queries.
     - Use SQL controls like `LIMIT` to minimize data exposure in case of injection.
+
+### References: OWASP Top 10:2021 (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+                OWASP Top 10:2021 (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+                OWASP Top 10:2021 (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+                OWASP Top 10:2021 (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
