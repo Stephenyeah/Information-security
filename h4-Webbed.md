@@ -28,8 +28,8 @@
     - Outdated software versions with vulnerabilities.
     
    - **Prevention**:
-    - Use a repeatable hardening process across environments (Dev, QA, Production).
-    - Remove unnecessary features and components.
+     - Use a repeatable hardening process across environments (Dev, QA, Production).
+     - Remove unnecessary features and components.
     - Regularly review and update configurations, security patches, and cloud permissions.
     - Segment applications and use secure separation (e.g., containers, ACLs).
     - Automate configuration checks and security testing.
