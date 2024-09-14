@@ -204,3 +204,26 @@
                 OWASP Top 10:2021 (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
                 OWASP Top 10:2021 (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
                 OWASP Top 10:2021 (https://owasp.org/Top10/A01_2021-Broken_Access_Control/)
+
+
+# a) Goat. Install WebGoat 2023.4. This subtask does not need to be reported, unless there are technical problems.
+
+![2024-08-31 00_56_02-Create Virtual Machine](https://github.com/user-attachments/assets/895854fc-9604-4254-88ef-a4ebad88ba67)
+
+![2024-09-13 10_31_40-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/6fc9632e-4850-4a9e-9508-8c0fc40debfb)
+
+![2024-09-13 10_43_02-VirtualBoxVM](https://github.com/user-attachments/assets/c2bfb9ec-c41b-41b8-89b6-619cb0587a01)
+
+![2024-09-13 10_46_32-VirtualBoxVM](https://github.com/user-attachments/assets/d88cced6-b485-4c34-baab-19357ffdb221)
+
+
+# b) F12. Solve Webgoat 2023.4: General: Developer tools.
+
+![2024-09-13 10_55_51-VirtualBoxVM](https://github.com/user-attachments/assets/6b25e404-09d9-49aa-86a7-6ff8fddd4f20)
+
+
+# c) Not outdated. Update all operating system and all applications in your Linux.
+
+![2024-09-13 10_56_57-VirtualBoxVM](https://github.com/user-attachments/assets/48447ad8-7b0e-4b92-9956-6610e5cb1694)
+
+![2024-09-13 11_03_22-VirtualBoxVM](https://github.com/user-attachments/assets/cb864aff-e047-4119-b2d8-66b90dfb1ebc)
