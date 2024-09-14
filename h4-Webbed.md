@@ -221,8 +221,12 @@
 
 ![2024-09-13 10_55_51-VirtualBoxVM](https://github.com/user-attachments/assets/6b25e404-09d9-49aa-86a7-6ff8fddd4f20)
 
+![福昕截屏20240914230127809](https://github.com/user-attachments/assets/4f97e158-ee21-439b-884c-c481407db83b)
 
-# c) Not outdated. Update all operating system and all applications in your Linux.
+![福昕截屏20240914230325085](https://github.com/user-attachments/assets/d5d3a5e4-a235-47ac-98c1-4b69a654943c)
+
+# c) Not outdated. Update all operating system and a![Uploading 福昕截屏20240914230127809.PNG…]()
+ll applications in your Linux.
 
 ![2024-09-13 10_56_57-VirtualBoxVM](https://github.com/user-attachments/assets/48447ad8-7b0e-4b92-9956-6610e5cb1694)
 
