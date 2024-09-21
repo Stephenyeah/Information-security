@@ -25,3 +25,5 @@
 - **Key Management**: Reminds users to protect their private key and share public keys securely.
 
 Both explain how to secure communication—Schneier focuses on the basics, and Karvinen explains how to use tools like PGP/GPG.
+
+
