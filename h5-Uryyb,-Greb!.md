@@ -31,15 +31,24 @@ Both explain how to secure communication—Schneier focuses on the basics, and K
 
 - **Generate key pair**:  
   `gpg --full-generate-key`
+  
+![2024-09-22 01_40_16-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/f80a0acd-a474-40c5-a964-c481cbe72ae3)
 
 - **Export public key**:  
   `gpg --armor --export your.email@example.com > public_key.asc`
 
+  ![2024-09-22 01_39_52-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/c4974544-8769-43e9-a891-0b373dfca46b)
+
+
 - **Import public key**:  
   `gpg --import recipient_public_key.asc`
 
+
 - **Encrypt a message**:  
   `gpg --encrypt --armor --recipient recipient.email@example.com message.txt`
+
+  ![2024-09-22 01_39_15-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/780ee1a4-77f0-4814-9492-e4c068483886)
+
 
 - **Decrypt a message**:  
   `gpg --decrypt message.txt.asc`
@@ -50,5 +59,5 @@ Both explain how to secure communication—Schneier focuses on the basics, and K
 - **Encrypt and sign**:  
   `gpg --encrypt --sign --armor --recipient recipient.email@example.com message.txt`
 
-
+    ![2024-09-22 01_38_55-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/d1feb01f-6c8e-4243-b701-9f5b26c6afea)
 
