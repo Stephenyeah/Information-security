@@ -27,3 +27,28 @@
 Both explain how to secure communication—Schneier focuses on the basics, and Karvinen explains how to use tools like PGP/GPG.
 
 
+### Summary of Commands:
+
+- **Generate key pair**:  
+  `gpg --full-generate-key`
+
+- **Export public key**:  
+  `gpg --armor --export your.email@example.com > public_key.asc`
+
+- **Import public key**:  
+  `gpg --import recipient_public_key.asc`
+
+- **Encrypt a message**:  
+  `gpg --encrypt --armor --recipient recipient.email@example.com message.txt`
+
+- **Decrypt a message**:  
+  `gpg --decrypt message.txt.asc`
+
+- **Sign a message**:  
+  `gpg --sign --armor message.txt`
+
+- **Encrypt and sign**:  
+  `gpg --encrypt --sign --armor --recipient recipient.email@example.com message.txt`
+
+
+
