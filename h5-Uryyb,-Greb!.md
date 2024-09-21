@@ -109,7 +109,8 @@ To install **KeePassXC** on a Debian system:
 - Open your KeePassXC database using your Master Password.
 - Locate the entry for the service/website you need. Double-click the username or password field to copy it to the clipboard (it automatically clears the clipboard after a few seconds for security).
 
-![2024-09-22 02_04_52-Information-security_h5-Uryyb,-Greb! md at study · Stephenyeah_Information-secur](https://github.com/user-attachments/assets/3d3ad224-4476-436e-902f-98bbb02630c9)
+![2024-09-22 02_23_37-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/fd463b46-b3df-4b80-a978-997df30a25dc)
+
 
 #### Step 4: **Export/Backup Database (Optional)**
 - Regularly backup your password database by exporting it to a safe location (external drive or encrypted USB).
