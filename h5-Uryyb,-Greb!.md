@@ -89,9 +89,13 @@ To install **KeePassXC** on a Debian system:
 
 ### 3. **Demonstrate Usage of KeePassXC**:
 
+
 #### Step 1: **Create a New Database**
 - When you open KeePassXC, click on `New Database`.
 - You’ll be prompted to create a **Master Password**. This is the only password you’ll need to remember, so make it strong but memorable. KeePassXC will use this to encrypt and protect the entire password database.
+- 
+
+![2024-09-22 01_48_06-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/305faa33-23f1-4f7b-8d9c-91706214adcd)
 
 #### Step 2: **Store a Password**
 - Once the database is created, you can start adding your passwords.
@@ -99,9 +103,13 @@ To install **KeePassXC** on a Debian system:
 - Fill in the fields for the website, username, and password. You can use KeePassXC’s built-in password generator to create a strong password.
 - Save the entry. Your password is now securely stored in your database.
 
+![2024-09-22 02_01_58-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/ae1e1859-fcc6-4561-bf86-9ce1ba72297a)
+
 #### Step 3: **Access a Stored Password**
 - Open your KeePassXC database using your Master Password.
 - Locate the entry for the service/website you need. Double-click the username or password field to copy it to the clipboard (it automatically clears the clipboard after a few seconds for security).
+
+![2024-09-22 02_04_52-Information-security_h5-Uryyb,-Greb! md at study · Stephenyeah_Information-secur](https://github.com/user-attachments/assets/3d3ad224-4476-436e-902f-98bbb02630c9)
 
 #### Step 4: **Export/Backup Database (Optional)**
 - Regularly backup your password database by exporting it to a safe location (external drive or encrypted USB).
