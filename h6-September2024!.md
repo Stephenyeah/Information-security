@@ -72,5 +72,5 @@
 - 
 
 ### References
-
+https://www.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec003
 https://www.okta.com/identity-101/one-way-hash-function-dynamic-algorithms/
