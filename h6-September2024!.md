@@ -23,11 +23,38 @@
 
 # a) Install Hashcat.
 
-## Cracking Passwords with Hashcat
+### Cracking Passwords with Hashcat
+
+**1. Install the apps**
+
+![2024-09-27 14_38_29-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/e6087e85-fffc-4140-b7ba-4f7b0d3a9e18)
+
+![2024-09-27 14_42_25-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/e918a8c2-9724-4db5-963d-56c278338e8d)
+
+**2. So many words what a hug dictionary, and Identify Hash Type**
+
+![2024-09-27 14_44_18-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/21e39817-7b1d-493b-9842-6bf8b57f5a33)
+
+![2024-09-27 14_46_25-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/4ee3287b-ec2e-4872-8497-4fdb164cba46)
+
+**3. Crack the Hash use the command below**
+
+**Command Meaning**
+
+$ hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved
+
+- `hashcat`: The hash cracking program we just installed.
+- `-m 0`: Specifies the type of the hash, identified using 'hashid' or 'hashcat --example-hashes'.
+- `'6b1628b016dff46e6fa35684be6acc96'`: The hash we want to crack (enclosed in single quotes to handle any special characters).
+- `-o solved`: Writes the cracked hash as plain text to a new file named "solved" in the working directory.
+
+![2024-09-27 14_50_33-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/32cc3f97-328e-417d-9d88-b9f53f53e005)
+
+![2024-09-27 14_52_01-Cracking Passwords with Hashcat](https://github.com/user-attachments/assets/95b5339f-4ca2-4feb-81df-b66bd1d4aaba)
 
 
 
-
+- 
 
 
 
