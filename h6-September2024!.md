@@ -62,6 +62,9 @@
 
 ### Refer to the above operation
 
+![2024-09-27 15_30_55-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/f7482628-919a-4732-82ce-3f7073430f23)
+
+
 ![2024-09-27 14_59_10-VirtualBoxVM](https://github.com/user-attachments/assets/51b9e6d0-de77-415f-a863-3cc097eeb042)
 
 
