@@ -21,7 +21,7 @@
   - **Folding**: Splits the data, adds the parts, and uses a portion as the key.
   - **Digit Rearrangement**: Changes the order of digits and uses the result as the key.
 
-
+# a) Install Hashcat.
 
 
 
