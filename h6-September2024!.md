@@ -52,13 +52,24 @@
 
 ![2024-09-27 14_52_01-Cracking Passwords with Hashcat](https://github.com/user-attachments/assets/95b5339f-4ca2-4feb-81df-b66bd1d4aaba)
 
+**let's see the Hashcat say**
+
+![2024-09-27 14_53_03-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/0d563f5c-e456-4b7e-8e1f-3371ddf1f17b)
+
+![2024-09-27 14_54_14-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/4d67ecca-3822-4ec5-b1d3-aeb0868c7195)
+
+# b) Crack this hash: d595b2086532422bbe654bc07ea030df
+
+### Refer to the above operation
+
+![2024-09-27 14_59_10-VirtualBoxVM](https://github.com/user-attachments/assets/51b9e6d0-de77-415f-a863-3cc097eeb042)
+
+
+![2024-09-27 15_00_53-VirtualBoxVM](https://github.com/user-attachments/assets/f53f633d-6ed4-42f3-9c89-7479af682d5c)
+
 
 
 - 
-
-
-
-
 
 ### References
 
