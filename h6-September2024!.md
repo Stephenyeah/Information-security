@@ -40,9 +40,9 @@
 **3. Crack the Hash use the command below**
 
 **Command Meaning**
-
-$ hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved
-
+  ```bash
+  $ hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved
+  ```
 - `hashcat`: The hash cracking program we just installed.
 - `-m 0`: Specifies the type of the hash, identified using 'hashid' or 'hashcat --example-hashes'.
 - `'6b1628b016dff46e6fa35684be6acc96'`: The hash we want to crack (enclosed in single quotes to handle any special characters).
