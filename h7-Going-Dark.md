@@ -14,4 +14,11 @@
 
 7. **Not Perfect**: Tor can fail if used incorrectly, so it’s important to follow instructions and keep the software updated. 
 
+### Here’s a brief summary of the **Shavers & Bair (2016) abstract**:
 
+- **Tor enables anonymous communication** online, even for non-technical users.
+- It’s not hidden but makes tracking users nearly impossible.
+- **Forensic analysis** may struggle to uncover communications but can still find valuable artifacts.
+- **Tor's anonymization is highly effective**, making it difficult to bypass. 
+
+Keywords: anonymizing, anonymous, communication, forensic analysis.
