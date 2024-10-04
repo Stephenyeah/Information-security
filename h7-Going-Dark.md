@@ -22,3 +22,13 @@
 - **Tor's anonymization is highly effective**, making it difficult to bypass. 
 
 Keywords: anonymizing, anonymous, communication, forensic analysis.
+
+# a) Install TOR browser and access TOR network (.onion addresses)
+
+**1. Just use the browser search for tor and download it.**
+
+![2024-10-04 12_30_29-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/ed0069c5-0432-462e-8a71-7a3f0e605f3b)
+
+**2.This the steps how to install and start the tor journey.**
+![2024-09-30 10_50_39-VirtualBoxVM](https://github.com/user-attachments/assets/941d8c72-ee8d-481d-8cda-270da6f9685f)
+
