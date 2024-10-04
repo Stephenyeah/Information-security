@@ -70,6 +70,11 @@ Leakbase
 altenens
 ![2024-10-04 12_56_28-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/f4415603-2884-472b-b364-13fa7472825d)
 
+### a site for a well known organization that has a physical street address in the real world
+
+![福昕截屏20241004131739579](https://github.com/user-attachments/assets/2741f3ab-d67b-4e6f-b72c-0801f541edfd)
+
+![2024-10-04 13_31_41-Server Not Found — Tor Browser](https://github.com/user-attachments/assets/4e91b163-ec51-489b-9035-091a37679572)
 
 #### References: https://blog.abyssdawn.com/archives/211.html
                  https://www.anwangxia.com/2505.html#google_vignette
@@ -80,6 +85,6 @@ altenens
 
 
 
-### a site for a well known organization that has a physical street address in the real world
+
 
 
