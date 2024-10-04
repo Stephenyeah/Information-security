@@ -32,3 +32,48 @@ Keywords: anonymizing, anonymous, communication, forensic analysis.
 **2.This the steps how to install and start the tor journey.**
 ![2024-09-30 10_50_39-VirtualBoxVM](https://github.com/user-attachments/assets/941d8c72-ee8d-481d-8cda-270da6f9685f)
 
+**3.Kick the connect buttom.**
+![2024-10-04 12_31_25-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/139739a1-b3fe-4fb3-97db-eb310936b42a)
+
+
+# b) Browse TOR network, find, take screenshots and comment
+
+### search engine for onion sites
+**It is a duck but also dark?**
+
+![2024-10-04 12_57_47-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/135513ca-acb5-4e38-8c9a-ac9366da6a0a)
+
+### marketplace
+
+Tor2door is a marketplace on the dark web where people can buy and sell goods anonymously. It uses the Tor network to hide users' identities and often involves cryptocurrencies like Bitcoin for payments. Though some people use it for illegal activities, Tor2door is known for being easy to use and having security features to protect its users. However, using such platforms for illegal purposes can lead to serious legal trouble.
+
+![2024-10-04 12_36_11-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/d95412f0-e27f-4e8a-abef-9a6336c17d16)
+
+ASAP is a dark web marketplace where users can anonymously buy and sell goods, often using cryptocurrencies for secure transactions. It operates on the Tor network to protect privacy. Like other dark web sites, it may involve illegal activities.
+
+![2024-10-04 12_38_19-VirtualBoxVM](https://github.com/user-attachments/assets/190beba7-ac01-4649-bc22-c05e362fc7e9)
+
+### forum
+
+A top 10 form Forum Fact sheet in the dark side.
+![2102442324](https://github.com/user-attachments/assets/88addfb1-e5ab-4420-8f23-c244dbc01c61)
+
+Leakbase
+![2024-10-04 12_53_20-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/2abd0945-77ff-424c-8be0-3075e8ae4abf)
+
+altenens
+![2024-10-04 12_56_28-DebianZhenyu  Running  - Oracle VM VirtualBox](https://github.com/user-attachments/assets/f4415603-2884-472b-b364-13fa7472825d)
+
+
+#### References: https://blog.abyssdawn.com/archives/211.html
+                 https://www.anwangxia.com/2505.html#google_vignette
+
+
+
+
+
+
+
+### a site for a well known organization that has a physical street address in the real world
+
+
